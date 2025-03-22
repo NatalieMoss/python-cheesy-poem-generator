@@ -5,7 +5,7 @@ def main():
     colors = [] #list of colors
     fridge = 0
 
-    print("\nCheesy Poem Machine\n")
+    print("\nCheesy Poem Generator\n")
 
     # Inputs
     big_fridgename = ask_big_name()
